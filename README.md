@@ -1,2 +1,2 @@
 # DOSTEA-
-Developed a website for a cafe
+🚀 Delighted to share my recent accomplishment in the Google Winter of Code 2023! I led the development of a vibrant website for Dostean, a cozy cafe in Surat. 🌐✨ Our team integrated cutting-edge features, including an intuitive menu system and seamless reservation management, to enhance the cafe's online presence. 💻 Thrilled to contribute to Dostean's digital journey, marrying technology with hospitality for an immersive customer experience. 🌟 #GoogleWinterOfCode #WebDev #DosteanCafe #Surat #Innovation
